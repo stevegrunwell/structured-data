@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Computers <3 Structured Data",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "structured-data"
+  }
+}
