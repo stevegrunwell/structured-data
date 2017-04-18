@@ -2,7 +2,7 @@
 
 Note:
 
-While putting together this presentation, I also found this really cool tool for visualizing RDFa data.
+While putting together this presentation, I also found this really cool tool for visualizing RDFa data called "RDFa Play".
 
 Using our Homer Simpson example from earlier, we can see how everything relates within our RDFa-formatted objects.
 
