@@ -17,4 +17,5 @@ Implementing good, structured data is also the first step into the Google Knowle
 
 ## Presentation History
 
+* [WordCamp Kent 2017](https://2017.kent.wordcamp.org/) — June 24, 2017
 * [Lone Star PHP 2017](http://lonestarphp.com/) - April 21, 2017

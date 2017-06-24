@@ -4,10 +4,10 @@
 <head profile="http://dublincore.org/documents/2008/08/04/dc-html/">
 	<!-- ... -->
 	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
-	<meta name="DC.Title" content="Lone Star PHP">
-	<meta name="DC.Subject" content="PHP development">
+	<meta name="DC.Title" content="WordCamp Kent">
+	<meta name="DC.Subject" content="WordPress">
 	<meta name="DC.Description" content="...">
-	<meta name="DC.Date" content="2017-04-20">
+	<meta name="DC.Date" content="2017-06-24">
 	<meta name="DC.Type" content="Event">
 </head>
 ```
