@@ -2,10 +2,8 @@
 
 ```html
 <div vocab="http://schema.org/" typeof="Event">
-	<h2 property="name">WordCamp Kent</h2>
-	<time datetime="2017-06-24" property="startDate">June 24</time>
-	&ndash;
-	<time datetime="2017-06-25" property="endDate">25, 2017</time>
+	<h2 property="name">WordCamp Grand Rapids</h2>
+	<time datetime="2017-08-26" property="startDate">August 26</time>
 	<p property="description">...</p>
 </div>
 ```
