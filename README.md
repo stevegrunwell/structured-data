@@ -13,9 +13,11 @@ Implementing good, structured data is also the first step into the Google Knowle
 * [Schema.org](https://schema.org)
 * [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/)
 * [RDFa / Play](https://rdfa.info/play/)
+* [Schemify](https://wordpress.org/plugins/schemify)
 
 
 ## Presentation History
 
+* [WordCamp Grand Rapids](https://2017.grandrapids.wordcamp.org/) — August 26, 2017
 * [WordCamp Kent 2017](https://2017.kent.wordcamp.org/) — June 24, 2017
 * [Lone Star PHP 2017](http://lonestarphp.com/) - April 21, 2017 ([joind.in](https://joind.in/talk/c9af2))
