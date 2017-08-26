@@ -2,8 +2,8 @@
 
 ```html
 <h1>Birthday Party</h1>
-<p class="date">August 13, 2017</p>
-<p>Steve is turning 30, come have a beer with him!</p>
+<p class="date">September 10, 2017</p>
+<p>Emily is turning two years old!</p>
 ```
 
 <br>What the computer sees:<!-- .element: class="fragment" data-fragment-index="0" -->
@@ -12,8 +12,8 @@ Title:
 Birthday Party
 
 Content:
-August 13, 2017
+September 10, 2017
 
-Steve is turning 30, come have a beer with him!
+Emily is turning two years old!
 ```
 <!-- .element: class="fragment" data-fragment-index="0" -->
